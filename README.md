@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ankit mishra.
-- 👀 I’m interested in PHP Development.
+- 👀 I’m interested in Development.
 - 🌱 I’m currently learning PHP.
 - 💞️ I’m looking to collaborate on web developement project.
 - 📫 How to reach me on aim.
